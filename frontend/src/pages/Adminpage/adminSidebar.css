@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.sidebarContainer{
+    height: 100vh;
+    background:gray;
+
+}
+.sidebarContainer ul li img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 8px;
+}
+.sidebarContainer ul{
+    font-family: cursive;
+    width: 200px;
+    padding-top: 30px;
+
+}
+.sidebarContainer ul li{
+    list-style: none;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+
+
+}
+.sidebarContainer ul li a{
+    color: #000;
+    text-decoration: none;
+}
+.userText{
+    text-align: center;
+    margin-top: 20px;
+    color: #2f2f2f;
+}
+.sidebarContainer li:hover{
+    background-color: #3e3d3d;
+    border-radius: 10px;
+}

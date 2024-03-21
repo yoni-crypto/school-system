@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+.adminClasses{
+    height: 100vh;
+    background-color: lightgray;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.adminClasses button{
+    
+}
+
